@@ -20,6 +20,8 @@ body{
     border-radius: 10px;
 }
 /* End of Shared Styles */
+
+/* start here navbar area design */
 nav{
     display: flex;
     justify-content: space-between;
@@ -39,3 +41,58 @@ nav ul a{
 #top-btn{
     margin-top: 38px;
 }
+/* End of navbar area design */
+
+/* Start Here Header-Banner Area Design */
+.hero-bg{
+    width: 100%;
+    height: 698px;
+    margin: 0 auto;
+    background-image: url('../assets/Hero-bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 36px;
+    margin-bottom: 45px;
+}
+/* End of Header-Banner Area Design */
+/* Start Banner content design */
+.hero-content{
+    width: 998px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.hero-content-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 36px;
+    padding-top: 26px;
+}
+.hero-content h1{
+    font-size: 48px;
+    text-align: center;
+    margin-bottom: 24px;
+    font-weight: 800;
+}
+.hero-content p{
+    width: 852px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+}
+.btn-contact{
+    margin-top: 28px;
+    background-color: #000;
+    color: #fff;
+    padding: 21px 24px;
+    font-size: 20px;
+    border-style: none;
+    border-radius: 10px;
+    word-spacing: 3px;
+}
+/* End of Banner content design */
