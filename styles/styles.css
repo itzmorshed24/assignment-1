@@ -25,6 +25,9 @@ body{
     background-color: #fff;
     font-weight: 600;
 }
+a{
+    text-decoration: none;
+}
 /* End of Shared Styles */
 
 /* start here navbar area design */
@@ -253,8 +256,8 @@ nav ul a{
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
-    padding: 64px 48px;
-    background-color: #00000041;
+    padding: 70px 48px;
+    background-color: #0000004a;
     background-blend-mode: overlay;
     border-radius: 12px;
     margin-top: 48px;
