@@ -182,3 +182,42 @@ nav ul a{
 .yt-video{
     border-radius: 10px;
 }
+/* End of Inspiration section Area */
+
+/* Start of My current Target Design  */
+
+.target-section{
+    width: 364px;
+    padding: 40px;
+    background-color: #ff4b1e16;
+    border-radius: 10px;
+}
+.target-section h4{
+    font-size: 36px;
+    font-weight: 800;
+    margin-top: 24px;
+    margin-bottom: 8px;
+}
+.target-section p{
+    line-height: 26px;
+    margin-bottom: 24px;
+}
+.target-section a{
+    color: #000;
+}
+.current-target-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#target-sec{
+    margin: 0 24px;
+    background-color: #004de821;
+}
+.current-target{
+    margin-bottom: 111px;
+}
+#js-section{
+    background-color: #ffdd001b;
+}
+/* End of My current Target Design  */
