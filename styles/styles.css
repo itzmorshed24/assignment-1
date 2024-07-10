@@ -19,6 +19,12 @@ body{
     font-weight: 600;
     border-radius: 10px;
 }
+.btn-secondary{
+    font-size: 20px;
+    padding: 12px 20px;
+    background-color: #fff;
+    font-weight: 600;
+}
 /* End of Shared Styles */
 
 /* start here navbar area design */
@@ -96,3 +102,52 @@ nav ul a{
     word-spacing: 3px;
 }
 /* End of Banner content design */
+.development-content{
+    background-color: #adc8f723;
+    padding: 80px 97px;
+    margin-bottom: 90px;
+}
+.why-web-development{
+    width: 852px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 48px;
+}
+.why-web-development h1{
+    font-size: 32px;
+    font-weight: 900;
+    text-align: center;
+}
+.why-web-development p{
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 26px;
+    text-align: center;
+}
+.web-dev-section{
+    padding: 48px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 8px;
+    margin-bottom: 32px;
+}
+.dev-left{
+    width: 477px;
+    margin: 10.5px 0px;
+}
+.dev-left h3{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    color: #253253;
+}
+.dev-left p{
+    margin-top: 16px;
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 32px;
+}
