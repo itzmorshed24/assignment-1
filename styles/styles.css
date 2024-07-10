@@ -151,3 +151,34 @@ nav ul a{
     line-height: 26px;
     margin-bottom: 32px;
 }
+/* End of web development section Area */
+
+/* Start Here Inspiration section Area Design */
+.inspiration-content{
+    width: 852px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 48px;
+}
+.inspiration-content h3{
+    font-size: 32px;
+    font-weight: 900;
+    text-align: center;
+    margin-bottom: 24px;
+}
+.inspiration-content p{
+    text-align: center;
+    line-height: 26px;
+}
+.youtube-content{
+    padding: 32px;
+    border: 0.5px solid #00000037;
+    border-radius: 5px;
+    margin-bottom: 151px;
+}
+.yt-video{
+    border-radius: 10px;
+}
