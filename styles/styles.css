@@ -221,3 +221,80 @@ nav ul a{
     background-color: #ffdd001b;
 }
 /* End of My current Target Design  */
+
+/* Start Next level Area design */
+.next-level-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    border: 1px solid #00000043;
+    border-radius: 8px;
+    margin-bottom: 24px;
+}
+.target-content{
+    margin-left: 24px;
+}
+.target-content h4{
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 8px;
+}
+.target-content p{
+    margin-bottom: 24px;
+    line-height: 26px;
+}
+.target-content a{
+    color: #000;
+}
+/* End of My next target section Area Design */
+.support{
+    background-image: url('../assets/handshake.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    padding: 64px 48px;
+    background-color: #00000041;
+    background-blend-mode: overlay;
+    border-radius: 12px;
+    margin-top: 48px;
+}
+
+.support-content{
+    width: 730px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.support-content h2{
+    font-size: 32px;
+    font-weight: 900;
+    color: #fff;
+    margin-bottom: 16px;
+}
+.support-content p{
+    color: #fff;
+    line-height: 26px;
+    text-align: center;
+}
+.form{
+    text-align: center;
+}
+.form input[type="text"]{
+    width: 548px;
+    margin-top: 24px;
+    text-align: center;
+    padding: 19px 20px;
+    text-align: left;
+    border-style: none;
+    border-radius: 10px;
+}
+.form input[type="submit"]{
+    background-color: #fff;
+    padding: 17px 20px;
+    border-style: none;
+    border-radius: 10px;
+    font-size: 18px;
+}
